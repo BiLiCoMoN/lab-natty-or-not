@@ -20,16 +20,55 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# V-Pod AI: Seu Podcaster Virtual Automatizado
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Minha proposta de projeto sugere a criação de um podcaster virtual, e essa foi a escolha levando em conta o meu próprio nível de introspecção.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+### IAs Generativas
+
+1. GPT-4 (OpenAI)
+2. BERT (Google)
+
+### Síntese de Voz
+
+3. Amazon Polly
+4. Google Text-to-Speech
+5. Microsoft Azure Text-to-Speech
+
+### Ferramentas de Criação de Áudio
+
+6. Audacity
+7. Adobe Audition
+
+### Animação e Avatares Virtuais
+
+8. Reallusion iClone
+9. Adobe Character Animator
+10. Synthesia
+
+### Ferramentas de Integração e Automatização
+
+11. Zapier
+12. IFTTT (If This Then That)
+
+### Plataformas de Publicação de Podcasts
+
+13. Anchor
+14. Buzzsprout
+15. Podbean
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+### Exemplo de Fluxo de Trabalho
+
+1. **Criação de Conteúdo**: Eu utilizo o GPT-4 para gerar o roteiro.
+2. **Geração de Voz**: Uso Amazon Polly para converter o roteiro em áudio.
+3. **Edição**: Eu edito o áudio no Audacity.
+4. **Animação**: Crio um avatar no Reallusion iClone e sincronizo-o com o áudio (se necessário).
+5. **Publicação**: Publico o podcast no Anchor e configuro automações para distribuição.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
