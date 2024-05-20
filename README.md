@@ -48,6 +48,7 @@ Minha proposta de projeto sugere a criação de um podcaster virtual, e essa foi
 8. Reallusion iClone
 9. Adobe Character Animator
 10. Synthesia
+11. HeyGen
 
 ### Ferramentas de Integração e Automatização
 
@@ -65,16 +66,17 @@ Minha proposta de projeto sugere a criação de um podcaster virtual, e essa foi
 ### Exemplo de Fluxo de Trabalho
 
 1. **Criação de Conteúdo**: Eu utilizo o GPT-4 para gerar o roteiro.
-2. **Geração de Voz**: Uso Amazon Polly para converter o roteiro em áudio.
-3. **Edição**: Eu edito o áudio no Audacity.
-4. **Animação**: Crio um avatar no Reallusion iClone e sincronizo-o com o áudio (se necessário).
-5. **Publicação**: Publico o podcast no Anchor e configuro automações para distribuição.
+2. **Geração de Voz**: Usei Amazon Polly para converter o roteiro em áudio.
+3. **Edição**: Embora me fosse indicado o uso do Audacity, não tenho familiaridade com edição de audios. =(
+4. **Animação**: Criei um avatar HeyGen e todo o sincronismo com o audio se deu automaticamente. Não foi necessário usar o Roteiro convertido pra audio que havia feito no Amazon Polly(Text-to-Speech), pois o próprio HeyGen já tem este recurso integrado!
+5. **Publicação**: Não publiquei mas considero a experiência mais do que valiosa.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue o link no Youtube do resultado:
+https://youtu.be/1yGiPvofE-s
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi uma experiência incrivel, que me fez ver a grande utilidade da IA no nosso cotidiano.
 ```
 
 ### Exemplos e Insigths
